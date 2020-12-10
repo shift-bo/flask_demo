@@ -1,0 +1,11 @@
+celery
+flask
+flask_login
+flask_migrate
+flask_redis
+flask_restful
+flask_sqlalchemy
+redis
+requests
+corp-wx // pip install git+ssh://git@gitlab.17zuoye.net:10022/ops/corp-wx.git
+
